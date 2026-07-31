@@ -103,7 +103,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ulrich-leblack" target="_blank">
+  <a href="https://www.linkedin.com/in/ulrich-leblack-7a803220a/?locale=fr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
   </a>
   <a href="ulrichleblack@gmail.com" target="_blank">
@@ -113,7 +113,7 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"  />
   </a>
   <a href="https://gitlab.com/54blackghost" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gitlab logo"  />
+    <img src="https://img.shields.io/static/v1?message=Github&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gitlab logo"  />
   </a>
 </div>
 
