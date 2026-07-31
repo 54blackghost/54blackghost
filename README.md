@@ -103,16 +103,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/franklinfokodjomou" target="_blank">
+  <a href="https://www.linkedin.com/in/ulrich-leblack" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
   </a>
-  <a href="fokofranklin47@gmail.com" target="_blank">
+  <a href="ulrichleblack@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
   </a>
-  <a href="https://www.youtube.com/@becomedevops1" target="_blank">
+  <a href="https://www.youtube.com/@ULB_TV" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"  />
   </a>
-  <a href="https://gitlab.com/fokofranklin47" target="_blank">
+  <a href="https://gitlab.com/54blackghost" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gitlab logo"  />
   </a>
 </div>
